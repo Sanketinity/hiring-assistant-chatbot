@@ -10,7 +10,7 @@ The chatbot is built using Python, Streamlit, and LangChain. It leverages a larg
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/hiring-assistant-chatbot.git
+   git clone https://github.com/Sanketinity/hiring-assistant-chatbot.git
    cd hiring-assistant-chatbot
    ```
 
