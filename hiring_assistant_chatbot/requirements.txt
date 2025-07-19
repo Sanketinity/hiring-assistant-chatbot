@@ -1,0 +1,8 @@
+streamlit
+langchain
+python-dotenv
+langchain-google-genai
+google-api-python-client
+Pillow
+text2emotion
+emoji==1.7.0
